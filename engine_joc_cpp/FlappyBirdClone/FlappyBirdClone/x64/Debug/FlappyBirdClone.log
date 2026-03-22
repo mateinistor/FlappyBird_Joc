@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\main.cpp(40,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  FlappyBirdClone.vcxproj -> C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\x64\Debug\FlappyBirdClone.exe

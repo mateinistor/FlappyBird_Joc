@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FlappyBirdClone.vcxproj" Id="a6f47539-32ef-4c3a-b62a-36fdc18a5961" />
+</Solution>
