@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\main.cpp(133,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\main.cpp(200,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\main.cpp(200,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\main.cpp(201,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\main.cpp(201,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\main.cpp(212,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\main.cpp(212,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FlappyBirdClone.vcxproj -> C:\Users\matei\Documents\work\Personal\engine_joc_cpp\FlappyBirdClone\x64\Debug\FlappyBirdClone.exe
